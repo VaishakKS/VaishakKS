@@ -14,6 +14,7 @@ This my second profile. Do visit [vaishak10](https://github.com/vaishak10) which
 - [Android](https://github.com/VaishakKS/Art-Works/tree/main/Art-works/Android-Dab)
 - [Mood Selector](https://github.com/VaishakKS/Art-Works/tree/main/Art-works/Mood-Selector)
 - [Long Drive](https://github.com/VaishakKS/Art-Works/tree/main/Art-works/Long-Drive)
+- [Smartphone UI](https://github.com/VaishakKS/Art-Works/tree/main/Art-works/Smartphone-UI)
 
 ### Notes and Study materials
  - [Welcome To TypeScript](https://github.com/VaishakKS/TypeScript-Notes)
