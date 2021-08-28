@@ -36,5 +36,10 @@ This is my second profile. Do visit [vaishak10](https://github.com/vaishak10) wh
  - [Welcome To TypeScript](https://github.com/VaishakKS/TypeScript-Notes)
  - [DS and Algorithms](https://github.com/VaishakKS/DS-Algorithms-withJavascript)
 
-**Reach me at**<br>
+### Reach me at:
 <a href="mailto:vaishakmnglr@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+    
+### Connect with me:
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white0e76a8)](https://www.linkedin.com/in/vaishak-k-30a909191/)
+[![](https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=00acee)](https://twitter.com/noob_devv) 
+[![](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/vaishak10) 
