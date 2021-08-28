@@ -8,9 +8,29 @@ This is my second profile. Do visit [vaishak10](https://github.com/vaishak10) wh
 <img src="https://github-readme-stats.vercel.app/api?username=VaishakKS&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=VaishakKS&theme=dark" width="45%" />
 
-### For some arts & animations with code, please check this repo: [Art works](https://github.com/VaishakKS/Art-Works)
+### Some of my works.
 
-### Want to kill some time and want to build mini projects, take a look at this repo for project ideas: [Lets Project](https://github.com/VaishakKS/Lets-Project)
+<details>
+<summary>
+<strong> Art works </strong>
+</summary>
+    <ul>
+     <li><a href="https://github.com/VaishakKS/Art-Works/tree/main/Art-works/Minion">Minion</a></li>
+     <li><a href="https://github.com/VaishakKS/Art-Works/tree/main/Art-works/Android-Dab">Android Dab</a></li>
+     <li><a href="https://github.com/VaishakKS/Art-Works/tree/main/Art-works/Mood-Selector">Mood Selector</a></li>
+     <li><a href="https://github.com/VaishakKS/Art-Works/tree/main/Art-works/Long-Drive">Long Drive</a></li>
+     <li><a href="https://github.com/VaishakKS/Art-Works/tree/main/Art-works/Smartphone-UI">Smartphone UI</a></li>
+    </ul>
+</details>
+
+<details>
+<summary>
+<strong> Lets Project </strong>
+</summary>
+    <ul>
+     <li><a href="https://github.com/VaishakKS/Lets-Project/tree/main/Country-Infos">Country Infos</a></li>
+    </ul>
+</details>
 
 ### Notes and Study materials
  - [Welcome To TypeScript](https://github.com/VaishakKS/TypeScript-Notes)
