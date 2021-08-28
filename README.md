@@ -2,7 +2,7 @@
 
 This account is dedicated to arts with code. Also I maintain Web dev related notes here which I will be documenting frequently. Have also added a section dedicated to mini projects which will be a better way to kill one's time from scrolling through social media.
 
-This my second profile. Do visit [vaishak10](https://github.com/vaishak10) which is my main account where I will be committing a wide range of UI screens and applications using wide range of technologies. 
+This is my second profile. Do visit [vaishak10](https://github.com/vaishak10) which is my main account where I will be committing a wide range of UI screens and applications using wide range of technologies. 
 
 ### GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api?username=VaishakKS&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
