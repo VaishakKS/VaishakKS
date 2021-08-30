@@ -4,8 +4,7 @@ This account is dedicated to arts with code. Also I maintain Web dev related not
 
 This is my second profile. Do visit [vaishak10](https://github.com/vaishak10) which is my main account where I will be committing a wide range of UI screens and applications using wide range of technologies.
 
-### Reach me at:
-<a href="mailto:vaishakmnglr@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+### Reach me at: <a href="mailto:vaishakmnglr@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
     
 ### Connect with me:
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white0e76a8)](https://www.linkedin.com/in/vaishak-k-30a909191/)
