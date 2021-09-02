@@ -27,6 +27,7 @@ This is my second profile. Do visit [vaishak10](https://github.com/vaishak10) wh
      <li><a href="https://github.com/VaishakKS/Art-Works/tree/main/Art-works/Mood-Selector">Mood Selector</a></li>
      <li><a href="https://github.com/VaishakKS/Art-Works/tree/main/Art-works/Long-Drive">Long Drive</a></li>
      <li><a href="https://github.com/VaishakKS/Art-Works/tree/main/Art-works/Smartphone-UI">Smartphone UI</a></li>
+     <li><a href="https://github.com/VaishakKS/Art-Works/tree/main/Art-works/Jetsuit-man">Jet suit man</a></li>
     </ul>
 </details>
 
