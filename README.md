@@ -40,6 +40,15 @@ This is my second profile. Do visit [vaishak10](https://github.com/vaishak10) wh
     </ul>
 </details>
 
+<details>
+<summary>
+<strong> Marvel Series </strong>
+</summary>
+    <ul>
+     <li><a href="https://codepen.io/collection/RzWowL">Marvel-1</a></li>
+    </ul>
+</details>
+
 ### Notes and Study materials
  - [Welcome To TypeScript](https://github.com/VaishakKS/TypeScript-Notes)
  - [DS and Algorithms](https://github.com/VaishakKS/DS-Algorithms-withJavascript)
