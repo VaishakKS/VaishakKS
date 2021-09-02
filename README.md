@@ -45,7 +45,7 @@ This is my second profile. Do visit [vaishak10](https://github.com/vaishak10) wh
 <strong> Marvel Series </strong>
 </summary>
     <ul>
-     <li><a href="https://codepen.io/collection/RzWowL">Marvel-1</a></li>
+     <li><a href="https://codepen.io/collection/RzWowL" target="_blank">Marvel-1</a></li>
     </ul>
 </details>
 
